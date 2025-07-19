@@ -46,3 +46,8 @@ To analyze Zomato's global dataset and derive business insights such as:
 - **Python (Pandas)**: Initial data exploration  
 - **Cloud Credits**: Used for scalable computing during the internship
 
+
+Screenshot/Demo- Screensho- 
+
+
+
