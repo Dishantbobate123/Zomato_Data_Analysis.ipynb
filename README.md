@@ -47,6 +47,6 @@ To analyze Zomato's global dataset and derive business insights such as:
 - **Cloud Credits**: Used for scalable computing during the internship
 
 
-Screenshot/Demo- Screensho-(https://github.com/Dishantbobate123/Zomato_Data_Analysis.ipynb/blob/main/Snapshot%20of%20Dashboard)
+Screenshot/Demo- Snapshot -(https://github.com/Dishantbobate123/Zomato_Data_Analysis.ipynb/blob/main/Snapshot%20of%20Dashboard)
 
 
